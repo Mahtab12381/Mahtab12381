@@ -45,7 +45,10 @@
 <img  src="https://metrics.lecoq.io/Mahtab12381" align = "center"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahtab12381&" alt="mahtab12381" /></p>
-
+## Streak: 
+<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahtab12381&" alt="mahtab12381"  align = "center"/>
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahtab12381)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahtab-ullah-sani-80989b176/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MahtAbSani.065)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahtab.sani123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sani_mahtab)
