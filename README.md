@@ -29,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahtab12381&show_icons=true&theme=tokyonight&border_radius=15&card_width=500px" align = "center"/>
 </p>
 
-<p align="center">
-<img height="180em" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" align = "center"/>
+<p align="right">
+<img height="20em" src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet	" align = "right"/>
 </p>
 
