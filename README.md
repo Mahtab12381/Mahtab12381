@@ -30,6 +30,6 @@
 </p>
 
 <p align="right">
-<img height="180em" src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet	" align = "right"/>
+<img height="180em" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" align = "right"/>
 </p>
 
