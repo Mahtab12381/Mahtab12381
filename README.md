@@ -20,10 +20,10 @@
 </p>
 
 
-<p align="Left">
- <h2>Stats:<h2/>
-<img height="40em" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" align = "right"/>
-</p>
+
+ <h2>Stats: <img height="40em" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" align = "right"/><h2/>
+
+
 
 
 <p align="center">
