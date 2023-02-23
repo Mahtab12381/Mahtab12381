@@ -10,11 +10,12 @@
 
 "I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!"
 
-<b> Skills: <b/>  JS  | HTML | CSS | PHP | C# | C++ | .NET
+## Skills: <br>
+ ### JS  | HTML | CSS | PHP | C# | C++ | .NET | java
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,cpp,dotnet,c,bootstrap,visualstudio,vscode,java" />
   </a>
 </p>
 
