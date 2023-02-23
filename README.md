@@ -42,7 +42,7 @@
 ## Metrics: 
 <br>
 <p align="center">
-<img width = "300em " src="https://metrics.lecoq.io/Mahtab12381" align = "center"/>
+<img  src="https://metrics.lecoq.io/Mahtab12381" align = "center"/>
 </p>
 
 
