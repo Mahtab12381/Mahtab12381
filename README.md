@@ -1,7 +1,7 @@
 # Hi there 👋, myself Mahtab Ullah Sani
 ### studying Computer Science and Engineering
 
-- 🔭 I’m currently working on American International University - Bangladesh 
+- 🔭 I’m currently studying at American International University - Bangladesh 
 - 🌱 I’m currently learning ASP .net MVC 
 - 👯 I’m looking to collaborate on GitHub Projects 
 - 💬 Ask me about anything related to programming 
