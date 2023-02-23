@@ -4,6 +4,8 @@
 
 Skills:  JS  | HTML | CSS | PHP | C# | C++
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 - 🔭 I’m currently working on American International University - Bangladesh 
 - 🌱 I’m currently learning ASP .net MVC 
 - 👯 I’m looking to collaborate on GitHub Projects 
