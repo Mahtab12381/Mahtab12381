@@ -19,15 +19,10 @@
   </a>
 </p>
 
-
-
-  
-
-
-## Stats: 
+<h2>Stats: <h2> 
 <p align="right">
 <img height="40em" src="https://komarev.com/ghpvc/?username=your-github-username&color=green" align = "right"/>
-</p><br>
+</p>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahtab12381&show_icons=true&theme=tokyonight&border_radius=15&card_width=500px" align = "center"/>
 </p>
