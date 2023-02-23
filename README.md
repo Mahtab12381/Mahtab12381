@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" align = "center"/>
+<img width = "300em " src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" align = "center"/>
 </p>
 
 
