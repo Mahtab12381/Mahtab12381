@@ -1,4 +1,5 @@
-<h2>Hi there 👋 myself Mahtab Ullah Sani</h2>
+<h1>Hi there 👋 <h1> <br>
+  <h2>myself Mahtab Ullah Sani</h2>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
