@@ -25,5 +25,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahtab12381&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahtab12381&show_icons=true&theme=radical&border_radius=4.5)
 
