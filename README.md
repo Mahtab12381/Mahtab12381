@@ -44,12 +44,11 @@
 <img  src="https://metrics.lecoq.io/Mahtab12381" align = "center"/>
 </p>
 
-## Contact me: 
+## Connect with me: 
 <br>
-<p align="center">
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align = "center">](https://github.com/Mahtab12381)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahtab-ullah-sani-80989b176/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MahtAbSani.065)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahtab.sani123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sani_mahtab)
- 
+<p align="Center">
+<a href="https://twitter.com/sani_mahtab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sani_mahtab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahtab-ullah-sani-80989b176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahtab-ullah-sani-80989b176" height="30" width="40" /></a>
+<a href="https://fb.com/mahtabsani.065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahtabsani.065" height="30" width="40" /></a>
+<a href="https://instagram.com/mahtab.sani12381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahtab.sani12381" height="30" width="40" /></a>
 </p>
-
-
